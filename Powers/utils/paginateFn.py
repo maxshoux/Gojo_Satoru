@@ -1,7 +1,7 @@
 import importlib
 from pyrogram import enums, filters, Client
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
-from AnonXMusic import HELP_COMMANDS, app
+from Powers import HELP_COMMANDS, app
 from Powers.utils.kbhelpers import ikb
 
 module_num = 24
